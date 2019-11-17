@@ -32,18 +32,28 @@
   <model>
     <path>Aircraft/Jaguar/Models/Interior/Panel/panel.xml</path>
     <offsets>
-      <x-m> 0 </x-m>
-      <y-m> 0 </y-m>
-      <z-m> 0 </z-m>
+      <x-m>  0 </x-m>
+      <y-m>  0 </y-m>
+      <z-m> -0.060 </z-m>
     </offsets>
   </model>
 
   <model>
-    <path>Aircraft/Jaguar/Models/Interior/Panel/Instruments/divers/stick.xml</path>
+    <path>Aircraft/Jaguar/Models/Interior/Panel/3D-Models/Throttles.xml</path>
     <offsets>
-      <x-m> -3.25 </x-m>
-      <y-m> -00 </y-m>
-      <z-m> -0.45 </z-m>
+      <x-m> -0.170 </x-m>
+      <y-m> -0.005 </y-m>
+      <z-m> -0.063 </z-m>
+      <pitch-deg>-0</pitch-deg>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Jaguar/Models/Interior/Panel/Instruments/divers/Jag-FS.xml</path>
+    <offsets>
+      <x-m> -3.150 </x-m>
+      <y-m> -0.000 </y-m>
+      <z-m> -0.465 </z-m>
       <pitch-deg>-0</pitch-deg>
     </offsets>
   </model>
