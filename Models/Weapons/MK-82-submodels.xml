@@ -4,7 +4,7 @@
 
 <!--	<submodel>
 		<name>MK-82 impact fire</name>
-		<model>Aircraft/A-10/Models/Stores/MK-82/fire-impact.xml</model>
+		<model>Aircraft/Jaguar/Models/Stores/MK-82/fire-impact.xml</model>
 		<speed>0</speed>
 		<repeat>false</repeat>
 		<delay>0</delay>
